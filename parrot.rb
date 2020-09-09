@@ -1,4 +1,4 @@
 
-def greeting(name = "Ruby programmer")
+def parrot(phrase = "Ruby programmer")
   puts "Hello, #{name}"
 end
